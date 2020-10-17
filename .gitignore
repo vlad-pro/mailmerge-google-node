@@ -1,0 +1,16 @@
+.DS_Store
+.thumbs.db
+node_modules
+data
+
+# project related files
+credentials.json
+client_secret.json
+token.pickle
+token.json
+
+# related dirs
+/dist
+
+# Editor files
+.vscode
